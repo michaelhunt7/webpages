@@ -1,0 +1,22 @@
+/*
+ *Name: Michael Hunt
+ *UnityID: mnhunt2
+ *Date: 10/9/2026
+ *Assignment: Webpages Lab
+ *Description: Creating your on webpage
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #DECAFF;
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
