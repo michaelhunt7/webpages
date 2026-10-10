@@ -1,0 +1,18 @@
+commit 352a4bc7d77f8517aec37f7b61304d1e8b6983dd
+Merge: 9d780e7 52ec1c2
+Author: Michael Hunt <mnhunt2@ncsu.edu>
+Date:   Fri Oct 9 14:09:46 2026 -0400
+
+    Merge branch 'main' of https://github.com/michaelhunt7/webpages
+
+commit 9d780e7260e1a679b65bec17088d95248c01dfc1
+Author: Michael Hunt <mnhunt2@ncsu.edu>
+Date:   Fri Oct 9 14:02:52 2026 -0400
+
+    uploading files
+
+commit 52ec1c2bfe6e51ec3c0511397662c6219d735f93
+Author: michaelhunt7 <michaelhunt8.mh.mh@gmail.com>
+Date:   Sat Sep 26 23:11:57 2026 -0400
+
+    Initial commit
